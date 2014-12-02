@@ -1,4 +1,5 @@
 ## gulp-flowtype [![Build Status][travis-image]][travis-url] [![NPM version][npm-image]][npm-url] [![Dependency Status][depstat-image]][depstat-url]
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/charliedowler/gulp-flowtype?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 > Run [Facebook's Flow](http://flowtype.org/) in your gulp pipeline
 
